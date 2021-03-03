@@ -1,5 +1,3 @@
-<H1>
-Shime's website
-</h1>
-<center><p><h1>INFO</h1>
-  I dont mind if you use this code for your own website, but i would prefer if you gave me some credit</p><center>
+<H1> Shime's Website</h1>
+
+<p>Hello. Welcome to my little shitty project, i will be working for a while on this so lets see where it takes us. If you want to use the websites code i don't mind really, but i would prefer if you gave some creddit, even if the site is very simplistic. </p>
